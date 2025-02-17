@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog - Conseils et Actualités sur les Pompes à Chaleur</title>
+    <meta name="description" content="Découvrez nos articles et conseils sur les pompes à chaleur, les économies d'énergie et les aides financières pour vos projets de chauffage.">
+    
+    <!-- Balises canoniques et alternatives -->
+    <link rel="canonical" href="https://www.garcia-plomberie-services.fr/blog/" />
+    <link rel="alternate" hreflang="fr" href="https://www.garcia-plomberie-services.fr/blog/" />
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="logo-container">
+                <img src="images/logo.webp" alt="Logo Garcia Plomberie Services" class="logo-img">
+                <a href="/" class="logo-text">GARCIA PLOMBERIE SERVICES</a>
+            </div>
+            <button class="hamburger" aria-label="Menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <nav>
+                <ul class="nav-menu" id="nav-menu">
+                    <li><a href="/">Accueil</a></li>
+                    <li><a href="/services/">Nos Services</a></li>
+                    <li><a href="/pompe-a-chaleur-rge/">Nos Pompes à Chaleur</a></li>
+                    <li><a href="/aides-financieres/">Aides Financières</a></li>
+                    <li><a href="/temoignages/">Témoignages</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                    <li><a href="/a-propos/">À Propos</a></li>
+                    <li><a href="/devis/" class="btn btn-accent">Devis Gratuit</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h1>Blog</h1>
+                    <p>Conseils d'experts et actualités sur les pompes à chaleur</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section Blog -->
+        <section class="blog-section">
+            <div class="container">
+                <!-- Filtres -->
+                <div class="blog-filters">
+                    <h2>Catégories</h2>
+                    <div class="filter-buttons">
+                        <button class="filter-btn active" data-category="all">
+                            <i class="fas fa-th-large"></i> Tous les articles
+                        </button>
+                        <button class="filter-btn" data-category="conseils">
+                            <i class="fas fa-lightbulb"></i> Conseils
+                        </button>
+                        <button class="filter-btn" data-category="actualites">
+                            <i class="fas fa-newspaper"></i> Actualités
+                        </button>
+                        <button class="filter-btn" data-category="guides">
+                            <i class="fas fa-book"></i> Guides
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Grille d'articles -->
+                <div class="blog-grid">
+                    <!-- Article 1 -->
+                    <article class="blog-card" data-category="conseils">
+                        <div class="blog-image">
+                            <img src="images/blog/pompe-chaleur-maison.webp" alt="Pompe à chaleur installée dans une maison">
+                            <div class="blog-category">Conseils</div>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Comment choisir sa pompe à chaleur ?</h3>
+                            <p class="blog-meta">
+                                <i class="far fa-calendar"></i> 15 février 2024
+                                <i class="far fa-clock"></i> 3 min de lecture
+                            </p>
+                            <p class="blog-excerpt">
+                                Découvrez les critères essentiels pour choisir la pompe à chaleur adaptée à votre logement et vos besoins.
+                            </p>
+                            <a href="/blog/article1/" class="btn btn-primary">Lire la suite</a>
+                        </div>
+                    </article>
+
+                    <!-- Article 2 -->
+                    <article class="blog-card" data-category="actualites">
+                        <div class="blog-image">
+                            <img src="images/blog/article2.webp" alt="Calculatrice et documents d'aides financières">
+                            <div class="blog-category">Actualités</div>
+                        </div>
+                        <div class="blog-content">
+                            <h3>MaPrimeRénov' 2025 : Tout ce qu'il faut savoir</h3>
+                            <p class="blog-meta">
+                                <i class="far fa-calendar"></i> 18 février 2024
+                                <i class="far fa-clock"></i> 3 min de lecture
+                            </p>
+                            <p class="blog-excerpt">
+                                Le point sur les nouvelles aides disponibles en 2024 pour financer l'installation de votre pompe à chaleur.
+                            </p>
+                            <a href="/blog/article2/" class="btn btn-primary">Lire la suite</a>
+                        </div>
+                    </article>
+
+                    <!-- Article 3 -->
+                    <article class="blog-card" data-category="guides">
+                        <div class="blog-image">
+                            <img src="images/blog/entretien-pac.webp" alt="Entretien d'une pompe à chaleur">
+                            <div class="blog-category">Guides</div>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Guide d'entretien de votre pompe à chaleur</h3>
+                            <p class="blog-meta">
+                                <i class="far fa-calendar"></i> 5 février 2024
+                                <i class="far fa-clock"></i> 12 min de lecture
+                            </p>
+                            <p class="blog-excerpt">
+                                Les bonnes pratiques pour entretenir votre pompe à chaleur et optimiser ses performances.
+                            </p>
+                            <a href="/blog/article3/" class="btn btn-primary">Lire la suite</a>
+                        </div>
+                    </article>
+
+                    <!-- Article 4 -->
+                    <article class="blog-card" data-category="conseils">
+                        <div class="blog-image">
+                            <img src="images/blog/economies-energie.webp" alt="Graphique d'économies d'énergie">
+                            <div class="blog-category">Conseils</div>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Maximisez vos économies avec une PAC</h3>
+                            <p class="blog-meta">
+                                <i class="far fa-calendar"></i> 1 février 2024
+                                <i class="far fa-clock"></i> 7 min de lecture
+                            </p>
+                            <p class="blog-excerpt">
+                                Conseils pratiques pour optimiser le fonctionnement de votre pompe à chaleur et réduire vos factures.
+                            </p>
+                            <a href="/blog/article4/" class="btn btn-primary">Lire la suite</a>
+                        </div>
+                    </article>
+                </div>
+
+                <!-- Pagination -->
+                <div class="blog-pagination">
+                    <button class="pagination-btn active">1</button>
+                    <button class="pagination-btn">2</button>
+                    <button class="pagination-btn">3</button>
+                    <button class="pagination-btn next">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section Newsletter -->
+        <section class="newsletter-section">
+            <div class="container">
+                <div class="newsletter-content">
+                    <h2>Restez informé</h2>
+                    <p>Inscrivez-vous à notre newsletter pour recevoir nos derniers articles et conseils</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Votre adresse email" required>
+                        <button type="submit" class="btn btn-accent">
+                            <i class="fas fa-paper-plane"></i> S'inscrire
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>GARCIA PLOMBERIE SERVICES</h3>
+                <p>Expert en pompes à chaleur RGE QUALIPAC</p>
+                <div class="footer-contact-info">
+                    <a href="tel:+33624103655" class="footer-contact-item">
+                        <i class="fas fa-phone"></i>
+                        06 24 10 36 55
+                    </a>
+                    <a href="mailto:contact@garcia-plomberie.fr" class="footer-contact-item">
+                        <i class="fas fa-envelope"></i>
+                        contact@garciaplomberieservices.fr
+                    </a>
+                    <div class="footer-contact-item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        34 Rue Professeur Weill<br>
+                        69006 Lyon
+                    </div>
+                    <div class="footer-contact-item">
+                        <i class="fas fa-clock"></i>
+                        Lun-Ven: 06h30-19h30
+                    </div>
+                </div>
+                <div class="footer-social">
+                    <a href="https://www.facebook.com/p/Garcia-Plomberie-Services-100063705902321/?locale=fr_FR" class="social-link" target="_blank">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    <a href="https://www.instagram.com/renovation.rge/?igsh=ejhjMHhjdDRqbmU0" class="social-link" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h3>Navigation</h3>
+                <ul class="footer-links">
+                    <li><a href="/" class="footer-link">Accueil</a></li>
+                    <li><a href="/services/" class="footer-link">Services</a></li>
+                    <li><a href="/pompe-a-chaleur-rge/" class="footer-link">Pompes à Chaleur</a></li>
+                    <li><a href="/aides-financieres/" class="footer-link">Aides</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Nos Services</h3>
+                <ul class="footer-links">
+                    <li><a href="/installation/" class="footer-link">Installation PAC</a></li>
+                    <li><a href="/entretien-maintenance/" class="footer-link">Entretien</a></li>
+                    <li><a href="/devis/" class="footer-link">Devis Gratuit</a></li>
+                    <li><a href="/aides-financieres/" class="footer-link">Aides Financières</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Informations</h3>
+                <ul class="footer-links">
+                    <li><a href="/a-propos/" class="footer-link">À Propos</a></li>
+                    <li><a href="/mentions-legales/" class="footer-link">Mentions Légales</a></li>
+                    <li><a href="/politique-confidentialite/" class="footer-link">Politique de Confidentialité</a></li>
+                    <li><a href="/blog/" class="footer-link">Blog</a></li>
+                    <li><a href="/faq/" class="footer-link">FAQ</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

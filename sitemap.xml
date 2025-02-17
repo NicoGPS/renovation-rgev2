@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Pages principales -->
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/pompe-a-chaleur-rge/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/aides-financieres/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/devis/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Pages de services -->
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/services/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/installation/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/entretien-maintenance/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Pages de produits -->
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rf-t35-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rf-t4-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rf-t6-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rf-t8-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rmt-t8-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rmt-t10-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/daikin-altherma-3rmt-t12-monozone/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Pages de contenu -->
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/blog/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/temoignages/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/a-propos/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Pages légales -->
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/mentions-legales/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://www.garcia-plomberie-services.fr/politique-confidentialite/</loc>
+        <lastmod>2024-02-14</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.3</priority>
+    </url>
+</urlset>
